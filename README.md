@@ -1,0 +1,1 @@
+# SwiftGen-custom-templates
